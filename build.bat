@@ -1,0 +1,1 @@
+npx node-gyp configure build

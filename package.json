@@ -1,0 +1,8 @@
+{
+  "name": "enet.js",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "repository": "https://github.com/tapioca-server/enet.js.git",
+  "author": "okiwiziin <undefined@gmail.com>",
+  "license": "MIT"
+}
